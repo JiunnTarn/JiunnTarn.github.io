@@ -7,9 +7,9 @@ body {
 
 
 .box {
-  width: 1080px;
-  height: 1993.8px;
-  margin: 300px auto 3px auto;
+  width: 414px;
+  height: 736px;
+  margin: 30px auto 3px auto;
   position: relative;
   border: 1px solid rgba(255, 255, 255, 0);
   -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); }
